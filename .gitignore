@@ -1,3 +1,6 @@
+# Don't add big data files to the repo
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
